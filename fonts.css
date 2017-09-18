@@ -5,55 +5,53 @@ body { width: 100%;
 		 
 .oneblock {
 	background-color: #fff0f5; 
-	width: 80%; 
-	min-height: 85%;
-	display: inline-block; 
-	font-family: "Georgia", cursive, sans-serif; 
-	font-size: 20px; 
-	color: black; 
-	} 
-	
-	.twoblock { background-color: #D3D3D3  ; 
-	width: 45%; 
-	min-height: 75%;
-	display: inline-block; 
-	font-family: "Georgia", cursive, sans-serif; 
-	font-size: 20px; 
-	color: black; 
-	} 
-	
-.threeblock {
-	background-color: #FFDEAD; 
-	width: 45%; 
-	min-height: 80%;
-	display: inline-block; 
-	font-family: "Georgia", cursive, sans-serif; 
-	font-size: 20px; 
-	color: black; 
-	} 
-	
-	.fourblock {
-	background-color: #E0FFFF; 
-	width: 30%; 
-	min-height: 60%;
+	width: 50%; 
+	min-height: 55%;
 	display: inline-block; 
 	font-family: "Georgia", cursive, sans-serif; 
 	font-size: 30px; 
 	color: black; 
 	} 
 	
-	.fiveblock {
-	background-color: #E6E6FA ; 
-	width: 60%; 
-	min-height: 45%;
+	.twoblock { background-color: #D3D3D3  ; 
+	width: 45%; 
+	min-height: 55%;
 	display: inline-block; 
 	font-family: "Georgia", cursive, sans-serif; 
-	font-size: 20px; 
+	font-size: 30px; 
 	color: black; 
 	} 
-	
+.threeblock {
+	background-color: #FFDEAD; 
+	width: 35%; 
+	min-height: 50%;
+	display: inline-block; 
+	font-family: "Georgia", cursive, sans-serif; 
+	font-size: 30px; 
+	color: black; 
+	} 
+	.fourblock {
+	background-color: #E0FFFF; 
+	width: 30%; 
+	min-height: 40%;
+	display: inline-block; 
+	font-family: "Georgia", cursive, sans-serif; 
+	font-size: 30px; 
+	color: black; 
+	} 
+	.fiveblock {
+	background-color: #E6E6FA ; 
+	width: 30%; 
+	min-height: 55%;
+	display: inline-block; 
+	font-family: "Georgia", cursive, sans-serif; 
+	font-size: 30px; 
+	color: black; 
+	} 
 	
 		p { padding-top: 50px; 
 	color:black; 
 	} 
+	
+	
 	
